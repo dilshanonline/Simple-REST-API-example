@@ -24,8 +24,6 @@
 
     POST http://localhost:5000/add
 
-##### Example:
-
     { "name":"John", "email":"john@example.com", "pwd":"P@ssw0rd" }
 
 
